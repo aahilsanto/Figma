@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-Main Page
+Login Page
 ```
 HTML File
 
@@ -120,7 +120,7 @@ CSS File
   vertical-align: top;
 }
 ```
-Second Page
+Registration Page
 
 ```
 HTML File
@@ -218,7 +218,7 @@ CSS File
   vertical-align: top;
 }
 ```
-Third Page
+Registration-Form Page
 
 ```
 HTML File
